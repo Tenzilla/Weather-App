@@ -2,6 +2,7 @@ import './currentWeather.css'
 
 const CurrentWeather = ({ data }) => {
     return (
+
         <div className='weather'>
             <div className='top'>
                 <div>
